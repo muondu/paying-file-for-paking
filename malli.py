@@ -1,4 +1,4 @@
-def tickets():
+def tickets(minusing):
     '''
     asks if you are disabled or not the you pay for paking and subbtrakts
     '''
