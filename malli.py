@@ -1,4 +1,7 @@
 def tickets():
+    '''
+    asks if you are disabled or not the you pay for paking and subbtrakts
+    '''
     ticket_giver = input("are you disabled yes(y) or no(n): ")
     if ticket_giver == 'y':
         print("You are paying 100")
